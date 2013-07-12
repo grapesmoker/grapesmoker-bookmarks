@@ -1,0 +1,199 @@
+* Technical:
+
+  http://bulletphysics.org/wordpress/
+  http://api.jquery.com/
+  http://seleniumhq.org/
+  http://qt-project.org/wiki/Category:LanguageBindings::PySide
+  https://docs.djangoproject.com/en/dev/
+  http://jqueryui.com/demos/
+  http://datatables.net/index
+  http://www.ape-project.org/
+  http://www.tornadoweb.org/
+  http://greenlet.readthedocs.org/en/latest/index.html#
+  http://gevent.org/
+  http://modernizr.com/
+  http://expressjs.com/
+  http://socket.io/
+  http://www.adafruit.com/
+  http://arduino.cc/
+  http://makezine.com/getstartedarduino/
+  https://www.sparkfun.com/products/11021?
+  http://www.openbugs.info/w.cgi/FrontPage
+  https://auth.cacvantage.com/
+  http://www.freecadweb.org/wiki/index.php?title=Main_Page
+
+* Politics
+
+  http://www.irp.wisc.edu/index.htm
+  http://influenceexplorer.com/
+  http://sunlightlabs.com/projects/
+  http://maplight.org/
+  http://www.ascd.org/publications/educational-leadership/apr08/vol65/num07/The-Myth-of-the-Culture-of-Poverty.aspx
+  http://www.propublica.org/article/everything-we-know-so-far-about-drone-strikes
+  http://www.civisanalytics.com/
+  http://sunlightfoundation.com/blog/2013/06/10/get-funded-with-sunlights-new-opengov-grants/
+
+* Google spreasheet API
+  http://www.payne.org/index.php/Reading_Google_Spreadsheets_in_Python
+  http://mrwoof.tumblr.com/post/1004514567/using-google-python-api-to-get-rows-from-a-google
+  http://www.velocityreviews.com/forums/t736913-python-script-to-read-google-spreadsheet.html
+  http://code.google.com/p/gdata-python-scripts/source/browse/trunk/spreadsheets/list.py
+  
+* OSG stuff
+  http://www.cmake.org/pipermail/cmake/2008-January/018973.html
+  http://www.cs.clemson.edu/~malloy/courses/3dgames-2007/tutor/
+  
+* CMAKE
+  http://www.elpauer.org/stuff/learning_cmake.pdf
+
+* Visualization:
+
+  http://www.vtk.org/doc/release/5.10/html/
+  http://www.datapointed.net/
+  http://sweb12fall.hciresearch.org/
+
+* Statistical learning:
+
+  http://www-stat.stanford.edu/~tibs/ElemStatLearn/
+  http://scikit-learn.org/stable/index.html
+  http://simplystatistics.org/
+  http://www.hilarymason.com/projects/need-data-start-here/
+
+* Interesting:
+  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057475/
+  http://skepticalscience.com/argument.php
+  http://www.dimpledchad.info/
+  http://www.prospectmagazine.co.uk/magazine/rehabilitatingcarson/
+  http://aaronsw.jottit.com/rachelcarson
+  http://www.straightdope.com/columns/read/2428/was-rachel-carson-a-fraud-and-is-ddt-actually-safe-for-humans
+  http://www.gwpda.org/
+
+* Bloggable:
+
+  http://lareviewofbooks.org/article.php?id=737&fulltext=1
+  http://observer.com/2012/10/the-crispy-crimes-of-guy-fieri/
+  http://www.salon.com/2012/09/14/conservatives_killed_the_liberal_arts/
+  http://www.weeklystandard.com/articles/who-killed-liberal-arts_652007.html?page=1
+  http://www.mcsweeneys.net/articles/craigs-artisanal-pickles-philosophy
+  http://bestofnanowrimo.tumblr.com/page/12
+  http://www.nytimes.com/2012/12/05/us/judge-blocks-california-conversion-therapies-law.html?hp
+  http://www.theatlantic.com/sexes/archive/2012/11/single-moms-cant-be-scapegoated-for-the-murder-rate-anymore/265576/
+  http://www.rawstory.com/rs/2012/12/05/i-want-to-meet-these-mythical-single-mothers-who-rejected-great-guys-they-love/
+  http://www.thedailybeast.com/articles/2012/12/12/justice-antonin-scalia-in-hot-water-again-over-homosexual-comments.html
+  http://www.rollingstone.com/politics/blogs/taibblog/outrageous-hsbc-settlement-proves-the-drug-war-is-a-joke-20121213
+  http://opinionator.blogs.nytimes.com/2012/12/16/the-freedom-of-an-armed-society/?hp
+  http://www.washingtonpost.com/local/education/documentary-examines-michelle-rhees-legacy-in-dc/2013/01/04/ae86e8a6-55f7-11e2-8b9e-dd8773594efc_story.html
+  http://www.nytimes.com/2013/02/18/nyregion/new-york-city-schools-struggle-to-separate-the-gifted-from-the-just-well-prepared.html?src=me&ref=general
+  http://www.theatlanticwire.com/national/2013/02/jonah-lehrer-apologizes-surrounded-tweets-still-calling-him-plagiarist/62055/
+  http://www.lawyersgunsmoneyblog.com/2013/02/the-business-of-the-academy
+  http://www.salon.com/2013/03/03/mainstream_media_meltdown/
+  http://theclassical.org/articles/the-wages-of-win-on-ideas-numbers-and-people-at-the-sloan-sports-and-analytics-conference
+  http://chronicle.com/blogs/conversation/2013/04/01/notes-from-an-employed-philosopher/
+  http://www.thenation.com/article/173307/ncaa-poster-boy-corruption-and-exploitation
+  http://www.newyorker.com/online/blogs/johncassidy/2013/04/what-happened-to-the-internet-productivity-miracle.html
+  http://chronicle.com/blogs/conversation/2013/04/12/why-stem-should-care-about-the-humanities/
+
+* Programming
+  http://fabiensanglard.net/doom3/index.php
+  https://secure.mash-project.eu/wiki/index.php/Factory_Contest
+  http://rpy.sourceforge.net/rpy2/doc-2.2/html/index.html
+  http://www.nand2tetris.org./software.php
+  http://lisp-book.org/
+  http://mozartreina.com/sldb-or-debugger.html
+  http://christopheviau.com/d3_tutorial/
+  http://alignedleft.com/tutorials/d3/
+  http://socket.io/
+  http://nodetuts.com/
+  http://nodejs.org/api/http.html
+  http://documentcloud.github.io/underscore/
+  http://backbonejs.org/
+  http://expressjs.com/api.html
+  http://howtonode.org/node-js-and-mongodb-getting-started-with-mongojs
+  https://github.com/GarageGames/Torque2D/wiki/Getting-Started-Guide
+  https://github.com/GarageGames/Torque2D/wiki/Scripting-Tutorial
+  http://www.ergoemacs.org/emacs/elisp_basics.html
+  http://www.ergoemacs.org/emacs/elisp_syntax_coloring.html
+  http://www.emacswiki.org/emacs/ModeTutorial
+  http://www.zebkit.com/downloads/
+  http://www.chartjs.org/
+  http://cytoscape.github.io/cytoscape.js/
+  http://mongoosejs.com/index.html
+  http://mongodb.github.io/node-mongodb-native/markdown-docs/insert.html
+  http://net.tutsplus.com/tutorials/javascript-ajax/getting-into-ember-js/
+  https://github.com/fons/cl-mongo/blob/master/test/test.lisp
+  http://mihai.bazon.net/blog/howto-multi-threaded-tcp-server-in-common-lisp
+  http://common-lisp.net/project/usocket/api-docs.shtml
+  http://www.gamedev.net/page/resources/_/creative/game-design/how-to-build-a-game-in-a-week-from-scratch-with-no-budget-r2259
+  http://rampantgames.com/hackenslash.html
+  http://emberjs.com/
+  http://www.redblobgames.com/
+  http://osx.hyperjeff.net/Reference/CocoaArticles
+  http://graphics.ucsd.edu/courses/cse169_w04/
+
+* Physics:
+
+  http://xxx.lanl.gov/abs/1111.3328
+  http://arxiv.org/abs/1205.0811
+  http://arsphysica.tumblr.com/post/35780341413/math-in-action-following-the-money-through-financial
+  http://www.skepticalscience.com/
+
+* Math:
+
+  http://mathpages.com/home/index.htm
+
+* Basketball:
+
+  play-by-play data: http://apbr.org/metrics/viewtopic.php?f=2&t=8106
+  https://github.com/galizur/basketball-public
+  cnn/si pbp data: http://apbr.org/metrics/viewtopic.php?f=2&t=8099
+  http://www.d3coder.com/thecity/, http://www.d3coder.com/thecity/advanced-stats-primer/
+  http://apbr.org/metrics/viewtopic.php?f=2&t=8103
+  http://apbr.org/metrics/viewtopic.php?f=2&t=8119
+  http://www.apbr.org/metrics/viewtopic.php?f=2&t=7892
+  http://www.d3coder.com/thecity/
+  http://nba.nowgoal.com/cn/Normal.aspx?y=2012&m=11&matchSeason=2012-2013&SclassID=1
+  http://data.sportsillustrated.cnn.com/jsonp/basketball/nba/gameflash/2012/11/20/32128_boxscore.json
+
+* Research
+
+** Agent-based modeling
+  
+   http://www.casos.cs.cmu.edu/index.php
+   http://jasss.soc.surrey.ac.uk/JASSS.html
+   http://www.swarm.org/index.php/Main_Page
+   http://www.agent-based-models.com/blog/
+   http://www.scholarpedia.org/article/Agent_based_modeling
+   http://www2.econ.iastate.edu/tesfatsi/ace.htm
+
+** Vision
+   http://pascallin.ecs.soton.ac.uk/challenges/VOC/voc2012/index.html
+   http://nengo.ca/
+
+** Robotics
+
+   http://cordis.europa.eu/fp7/ict/robotics/
+   
+* Books:
+
+  Twilight of the Elites
+  Winner Take All Politics
+  The Reactionary Mind
+
+* Philosophy
+
+  http://www.openbookpublishers.com/reader/181
+  http://www.nybooks.com/articles/archives/2013/mar/21/homunculism/?pagination=false
+  http://www.psychologytoday.com/blog/white-matter-matters/201303/axons-axioms-episode-1-the-phantom-menace
+  https://www.coursera.org/course/introphil
+
+* Games
+  Tomb Raider: http://www.gamespot.com/tomb-raider/reviews/tomb-raider-review-6405201/
+  Metro: Last Light: http://www.gamespot.com/metro-last-light/reviews/metro-last-light-review-6408240/
+  Dead Space 3
+  Dishonored
+  Far Cry 3?
+  Elemental: Fallen Enchantress
+  Fallen Enchantress: Legendary Heroes
+  DmC: Devil May Cry
+  XCOM: Enemy Unknown
+  http://www.gamefaqs.com/pc/978013-kingdom-of-kroz/faqs/62694
