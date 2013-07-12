@@ -1,0 +1,300 @@
+* Technical:
+
+  http://bulletphysics.org/wordpress/
+  http://api.jquery.com/
+  http://seleniumhq.org/
+  http://qt-project.org/wiki/Category:LanguageBindings::PySide
+  https://docs.djangoproject.com/en/dev/
+  http://jqueryui.com/demos/
+  http://datatables.net/index
+  http://www.ape-project.org/
+  http://www.tornadoweb.org/
+  http://greenlet.readthedocs.org/en/latest/index.html#
+  http://gevent.org/
+  http://modernizr.com/
+  http://expressjs.com/
+  http://socket.io/
+  http://www.adafruit.com/
+  http://arduino.cc/
+  http://makezine.com/getstartedarduino/
+  https://www.sparkfun.com/products/11021?
+  http://www.openbugs.info/w.cgi/FrontPage
+  https://auth.cacvantage.com/
+  
+  http://paperjs.org/
+  http://documentcloud.github.com/backbone/
+  http://django-tastypie.readthedocs.org/en/latest/index.html
+  http://eli.thegreenplace.net/programs-and-code/
+  http://basketballvalue.com/downloads.php
+  http://mechanize.rubyforge.org/
+  http://www.mongodb.org/
+  http://d3js.org/
+  http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_1?s=books&ie=UTF8&qid=1303826646&sr=1-1
+  http://alignedleft.com/tutorials/d3/data-types/
+  http://joshbohde.com/blog/backbonejs-and-django
+  http://paltman.com/2012/04/30/integration-backbonejs-tastypie/
+  http://icanhazjs.com/
+  http://andyet.net/blog/2010/oct/29/building-a-single-page-app-with-backbonejs-undersc/
+  http://docs.jquery.com/Main_Page
+  http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/
+  http://documentcloud.github.com/backbone/docs/todos.html
+  https://developers.google.com/maps/documentation/javascript/reference
+  https://developers.google.com/maps/documentation/javascript/tutorial
+  https://docs.djangoproject.com/en/dev/topics/db/models/
+  http://mapicons.nicolasmollet.com/
+  http://www.wingo.com/gmaps/examples.html
+  https://docs.djangoproject.com/en/dev/ref/class-based-views/
+  https://docs.djangoproject.com/en/dev/topics/forms/
+  https://docs.djangoproject.com/en/dev/topics/auth/
+  http://www.djangobook.com/en/2.0/
+  http://lightbird.net/dbe/index.html
+  http://luke.campagnola.me/code/pyqtgraph/
+  http://scipy-central.org/
+  http://sfepy.org/doc-devel/index.html
+  http://www.slideshare.net/enthought/numpyscipy-statistics
+  http://www.youtube.com/watch?v=sO8hiPreNBg
+  http://retroshare.sourceforge.net/
+  http://sunlightfoundation.com/projects/
+  http://supercollider.sourceforge.net/
+  http://www.consumerfinance.gov/jobs/design-technology-fellows/
+  http://labs.makotokw.com/en/jquery/ui_potato_menu#style
+  http://www.noupe.com/tutorial/drop-down-menu-jquery-css.html
+  http://packages.python.org/guidata/
+  https://code.google.com/p/guiqwt/
+  https://docs.google.com/document/pub?id=1jGBn7zPDEaU33fJwi3YI_usWS-U6gpSSJotV_2gDrL0
+  http://pyload.org/
+  http://flexget.com/
+  https://github.com/itsmegb/LazyLibrarian
+  http://doc.qt.digia.com/qt/modules.html
+  http://srinikom.github.com/pyside-docs/
+  http://openkinect.org/
+  http://www.openni.org/
+  http://www.kinecthacks.com/
+  http://www.codeproject.com/
+  http://gazebosim.org/
+  http://code.google.com/p/simjr/
+  http://www.network-theory.co.uk/docs/gccintro/index.html
+
+* Politics
+
+  http://www.irp.wisc.edu/index.htm
+  http://influenceexplorer.com/
+  http://sunlightlabs.com/projects/
+  http://maplight.org/
+  http://www.ascd.org/publications/educational-leadership/apr08/vol65/num07/The-Myth-of-the-Culture-of-Poverty.aspx
+  http://www.propublica.org/article/everything-we-know-so-far-about-drone-strikes
+  http://transparencycamp.org/
+  http://openstates.org/
+
+  http://www.carbonbrief.org/website
+  http://politicsandletters.wordpress.com/
+  http://www.motherjones.com/media/2012/08/mission-high-false-low-performing-school
+  http://www.stratfor.com/analysis/geopolitics-united-states-part-1-inevitable-empire
+  http://elections.gmu.edu/Midwest_Mapping_Project.pdf
+  http://www.fairvote.org/fair-voting-solution#.UKyPSml265M
+  http://www.nextnewdeal.net/rortybomb/who-are-1-and-what-do-they-do-living
+  http://www.earth.columbia.edu/articles/view/59
+  http://www.census.gov/easystats/
+  http://books.nap.edu/openbook.php?record_id=10881&page=R2
+
+  http://www.bdatafest.computationalreporting.com/data
+  https://www.eff.org/nsa-spying/timeline
+
+* Google spreasheet API
+  http://www.payne.org/index.php/Reading_Google_Spreadsheets_in_Python
+  http://mrwoof.tumblr.com/post/1004514567/using-google-python-api-to-get-rows-from-a-google
+  http://www.velocityreviews.com/forums/t736913-python-script-to-read-google-spreadsheet.html
+  http://code.google.com/p/gdata-python-scripts/source/browse/trunk/spreadsheets/list.py
+  
+* OSG stuff
+  http://www.cmake.org/pipermail/cmake/2008-January/018973.html
+  http://www.cs.clemson.edu/~malloy/courses/3dgames-2007/tutor/
+  
+* CMAKE
+  http://www.elpauer.org/stuff/learning_cmake.pdf
+
+* Visualization:
+
+  http://www.vtk.org/doc/release/5.10/html/
+  http://www.datapointed.net/
+
+* Statistical learning:
+
+  http://www-stat.stanford.edu/~tibs/ElemStatLearn/
+  http://scikit-learn.org/stable/index.html
+  http://simplystatistics.org/
+  http://www.hilarymason.com/projects/need-data-start-here/
+  http://ciml.info/
+  http://astroml.github.com/
+  http://adsabs.harvard.edu/abs/2012arXiv1207.5578S
+
+* Interesting:
+  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057475/
+  http://skepticalscience.com/argument.php
+  http://www.dimpledchad.info/
+  http://www.prospectmagazine.co.uk/magazine/rehabilitatingcarson/
+  http://aaronsw.jottit.com/rachelcarson
+  http://www.straightdope.com/columns/read/2428/was-rachel-carson-a-fraud-and-is-ddt-actually-safe-for-humans
+  http://www.gwpda.org/
+
+* Philosophy
+
+  http://www.nybooks.com/articles/archives/2012/sep/27/philosopher-defends-religion/?pagination=false
+  http://www.newappsblog.com/2012/10/evolution-is-smarter-than-you-think.html#more
+  http://www.newappsblog.com/2012/09/nagels-gone-batty.html#more
+
+* Bloggable:
+
+  http://lareviewofbooks.org/article.php?id=737&fulltext=1
+  http://observer.com/2012/10/the-crispy-crimes-of-guy-fieri/
+  http://www.salon.com/2012/09/14/conservatives_killed_the_liberal_arts/
+  http://www.weeklystandard.com/articles/who-killed-liberal-arts_652007.html?page=1
+  http://www.mcsweeneys.net/articles/craigs-artisanal-pickles-philosophy
+  http://bestofnanowrimo.tumblr.com/page/12
+  http://www.nytimes.com/2012/12/05/us/judge-blocks-california-conversion-therapies-law.html?hp
+  http://www.theatlantic.com/sexes/archive/2012/11/single-moms-cant-be-scapegoated-for-the-murder-rate-anymore/265576/
+  http://www.rawstory.com/rs/2012/12/05/i-want-to-meet-these-mythical-single-mothers-who-rejected-great-guys-they-love/
+  http://www.thedailybeast.com/articles/2012/12/12/justice-antonin-scalia-in-hot-water-again-over-homosexual-comments.html
+  http://www.rollingstone.com/politics/blogs/taibblog/outrageous-hsbc-settlement-proves-the-drug-war-is-a-joke-20121213
+  http://opinionator.blogs.nytimes.com/2012/12/16/the-freedom-of-an-armed-society/?hp
+  http://www.washingtonpost.com/local/education/documentary-examines-michelle-rhees-legacy-in-dc/2013/01/04/ae86e8a6-55f7-11e2-8b9e-dd8773594efc_story.html
+
+  http://www.firstthings.com/article/2012/04/liberalism-after-liberalism
+  https://www.commondreams.org/view/2012/04/29-0
+  http://chronicle.com/article/From-Graduate-School-to/131795
+  http://www.tnr.com/print/article/politics/magazine/102778/harold-simmons-campaign-donor-2012-gop
+  http://www.nybooks.com/articles/archives/2012/may/10/crisis-big-science/?pagination=false
+  http://www.nybooks.com/articles/archives/2010/may/13/decision-threatens-democracy/?pagination=false
+  http://gawker.com/5908729/gay-teen-who-fired-stun-gun-in-the-air-to-scare-away-menacing-bullies-expelled-from-school
+  http://www.nytimes.com/2012/05/13/business/student-loans-weighing-down-a-generation-with-heavy-debt.html?pagewanted=all
+  http://www.edge.org/3rd_culture/shirky08/shirky08_index.html
+  http://thenewinquiry.com/essays/fuck-forever-and-never-die/
+  http://www.salon.com/2012/05/21/dont_mention_income_inequality_please_were_entrepreneurs/singleton/
+  http://www.slate.com/articles/technology/future_tense/2012/05/argonne_national_lab_director_on_the_myth_of_the_lone_inventor_in_the_garage.html
+  http://www.nybooks.com/articles/archives/2012/jun/07/do-our-public-schools-threaten-national-security/?pagination=false
+  http://www.hardwoodparoxysm.com/2012/05/20/kobe-bryant-and-faith-as-small-as-a-mustard-seed/
+  http://doghouseriley.blogspot.com/2012/04/lets-just-say-it-thirty-years-late-is.html
+  http://www.inspiracy.com/black/abolition/abolitionofwork.html
+  http://www.nytimes.com/2012/08/14/education/a-hamptons-summer-surfing-horses-and-hours-of-sat-prep.html?_r=1&ref=nyregion
+  http://gawker.com/5934202/unemployment-stories-vol-five-i-go-to-bed-every-night-hoping-i-wont-wake-up
+  http://articles.latimes.com/2010/dec/20/opinion/la-oe-lockyer-california-outlook-20101220
+  http://www.nytimes.com/2012/08/19/magazine/a-critic-makes-the-case-for-critics.html?pagewanted=all
+  http://www.rollingstone.com/culture/news/the-sharp-sudden-decline-of-americas-middle-class-20120622
+  http://management.fortune.cnn.com/2012/07/26/hostess-twinkies-bankrupt/
+  http://www.nytimes.com/2012/12/02/fashion/saying-no-to-college.html?pagewanted=3&_r=0
+  http://www.theatlantic.com/magazine/archive/2012/05/a-swing-and-a-miss/308943/
+  http://www.tnr.com/article/books-and-arts/magazine/110189/why-darwinist-materialism-wrong?page=0,3
+  http://www.nytimes.com/2012/12/02/fashion/maria-popova-has-some-big-ideas.html?pagewanted=all&_r=0
+  http://www.hsph.harvard.edu/research/hicrc/firearms-research/guns-and-death/index.html
+  http://www.washingtonpost.com/blogs/wonkblog/wp/2012/12/14/nine-facts-about-guns-and-mass-shootings-in-the-united-states/
+  http://www.theatlantic.com/national/archive/2011/01/the-geography-of-gun-deaths/69354/
+  http://www.villagevoice.com/2009-08-18/news/quentin-tarantino-the-inglourious-basterds-interview/4/
+  http://www.newrepublic.com/article/books-and-arts/against-transparency#
+  http://www.vanityfair.com/society/2013/04/mysterious-residents-one-hyde-park-london
+
+* Programming
+
+  http://fabiensanglard.net/doom3/index.php
+  http://www.network-theory.co.uk/docs/gccintro/index.html
+  http://julialang.org/
+  http://jakevdp.github.com/
+  http://stackoverflow.com/questions/1669/learning-to-write-a-compiler
+  https://github.com/jacomyal/sigma.js
+  
+** Lisp
+   
+   http://www.gnu.org/software/clisp/impnotes/index.html
+   http://dreamsongs.com/CLOS.html
+   http://www.aiai.ed.ac.uk/~jeff/clos-guide.html
+   http://www.ravenbrook.com/doc/2003/07/15/clos-fundamentals/
+   http://common-lisp.net/project/commonqt/
+   http://lisp-search.acceleration.net/
+   http://planet.lisp.org/
+   http://cl-cookbook.sourceforge.net/clos-tutorial/index.html
+   https://github.com/madnificent/jsown
+   https://github.com/RyanHope/json-network-interface
+
+* Physics:
+
+  http://xxx.lanl.gov/abs/1111.3328
+  http://arxiv.org/abs/1205.0811
+  http://arsphysica.tumblr.com/post/35780341413/math-in-action-following-the-money-through-financial
+  http://www.skepticalscience.com/
+
+* Math:
+
+  http://mathpages.com/home/index.htm
+
+* QFin
+  
+  https://www.quantnet.com/
+  http://www.nuclearphynance.com/default.aspx
+
+* Basketball:
+
+  play-by-play data: http://apbr.org/metrics/viewtopic.php?f=2&t=8106
+  https://github.com/galizur/basketball-public
+  cnn/si pbp data: http://apbr.org/metrics/viewtopic.php?f=2&t=8099
+  http://www.d3coder.com/thecity/, http://www.d3coder.com/thecity/advanced-stats-primer/
+  http://apbr.org/metrics/viewtopic.php?f=2&t=8103
+  http://apbr.org/metrics/viewtopic.php?f=2&t=8119
+  
+  http://sports.espn.go.com/nba/gamepackage/data/shot?gameId=320430025
+  http://basketballvalue.com/index.php
+  http://hoopdata.com/shotstats.aspx
+  http://apbr.org/
+
+* Research
+  
+** Agent-based modeling
+  
+   http://www.casos.cs.cmu.edu/index.php
+   http://jasss.soc.surrey.ac.uk/JASSS.html
+   http://www.swarm.org/index.php/Main_Page
+   http://www.agent-based-models.com/blog/
+   http://www.scholarpedia.org/article/Agent_based_modeling
+   http://www2.econ.iastate.edu/tesfatsi/ace.htm
+
+** Vision
+   http://pascallin.ecs.soton.ac.uk/challenges/VOC/voc2012/index.html
+
+** Cognitive architectures
+
+   http://cogarch.ict.usc.edu/sigma/
+   http://compneuro.uwaterloo.ca/index.html
+   http://nengo.ca/
+   
+* Books:
+
+  Twilight of the Elites
+  Winner Take All Politics
+  The Reactionary Mind
+* Games
+  XCOM: Enemy Unknown
+  Dishonored
+  Borderlands 2
+  DMC: Devil May Cry
+  Crysis 3
+  Dead Space 3
+  Kingdoms of Amalur
+
+* Misc
+
+  http://www.leendertvanmaanen.com/pubs/index.html
+  http://www.cs.cmu.edu/~sef/scone/Scone-User.htm
+  http://www.deviantart.com/print/8989062/
+  http://www.boostyourgrade.com/products-page/buy-oxiracetam/
+  http://www.phyast.pitt.edu/~blc/book/index.html
+  http://ana-white.com/2010/11/build-your-own-storage-sofa.html
+  http://littlegreenbow.com/2012/01/detailed-diy-couch-plans/
+  https://www.cra.com/
+
+  http://lifehacker.com/5943163/how-to-automatically-download-virtually-anything-as-soon-as-its-available
+  http://lifehacker.com/5967007/turn-your-freenas-box-into-the-ultimate-anonymous-downloading-machine
+  http://lifehacker.com/5936938/how-do-i-torrent-safely-now-that-demonoid-is-down
+  http://lifehacker.com/5822590/turn-an-old-computer-into-a-networked-backup-streaming-or-torrenting-machine-with-freenas
+  http://lifehacker.com/5900626/create-a-kickass-seamless-play+everything-media-center-the-complete-guide
+  http://lifehacker.com/5601586/how-to-get-started-with-usenet-in-three-simple-steps
+  http://lifehacker.com/5938883/how-can-i-build-a-quiet-low+powered-home-file-server
+  
+  http://www.investopedia.com/
