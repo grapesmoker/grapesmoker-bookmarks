@@ -208,7 +208,10 @@
   http://nothings.org/writing/websucks.html
 
   http://www.aeonmagazine.com/being-human/how-consciousness-works/
-  
+  http://www.theatlantic.com/politics/archive/2013/09/the-fall-of-the-heritage-foundation-and-the-death-of-republican-ideas/279955/
+  http://www.theguardian.com/books/2013/sep/13/jonathan-franzen-wrong-modern-world?CMP=twt_gu
+  http://www.theatlantic.com/magazine/archive/2013/10/the-case-against-high-school-sports/309447/
+
 * Programming
 
   http://www.network-theory.co.uk/docs/gccintro/index.html
