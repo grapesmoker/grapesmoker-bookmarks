@@ -74,6 +74,7 @@
   http://gazebosim.org/
   http://code.google.com/p/simjr/
   http://www.network-theory.co.uk/docs/gccintro/index.html
+  http://forum.xda-developers.com/showthread.php?t=2041627
 
 * Politics
 
@@ -200,6 +201,14 @@
   http://www.vanityfair.com/society/2013/04/mysterious-residents-one-hyde-park-london
   http://www.yalelawjournal.org/the-yale-law-journal-pocket-part/election-law/the-dignity-of-the-south/
 
+  http://www.nytimes.com/2013/08/04/education/edlife/lifting-the-veil-on-the-holistic-process-at-the-university-of-california-berkeley.html?pagewanted=3&smid=fb-nytimes
+
+  http://unitscale.com/mb/bomb-in-the-garden/
+  http://ln.hixie.ch/?start=1088526392&order=-1&count=1
+  http://nothings.org/writing/websucks.html
+
+  http://www.aeonmagazine.com/being-human/how-consciousness-works/
+  
 * Programming
 
   http://www.network-theory.co.uk/docs/gccintro/index.html
@@ -244,6 +253,12 @@
   http://osx.hyperjeff.net/Reference/CocoaArticles
   http://graphics.ucsd.edu/courses/cse169_w04/
 
+  http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/
+  https://ocsigen.org/tutorial/
+  https://developers.google.com/closure/
+
+  http://www.erlang.org/
+
 ** Lisp
    
    http://www.gnu.org/software/clisp/impnotes/index.html
@@ -256,6 +271,13 @@
    http://cl-cookbook.sourceforge.net/clos-tutorial/index.html
    https://github.com/madnificent/jsown
    https://github.com/RyanHope/json-network-interface
+   
+   https://github.com/edicl/hunchentoot
+   http://lisperator.net/slip/
+   http://weitz.de/cl-who/
+   http://lispwebtales.ppenev.com/
+   http://quickdocs.org/caveman/
+   http://kuomarc.wordpress.com/2012/05/13/12-steps-to-build-and-deploy-common-lisp-in-the-cloud-and-comparing-rails/
 
 * Physics:
 
@@ -293,7 +315,8 @@
   http://basketballvalue.com/index.php
   http://hoopdata.com/shotstats.aspx
   http://apbr.org/
-  
+
+  http://www.nbawowy.com/
 
 * Research
   
@@ -327,6 +350,7 @@
   Winner Take All Politics
   The Reactionary Mind
 
+  http://flavorwire.com/407418/the-25-best-websites-for-literature-lovers/view-all
 
 * Philosophy
 
