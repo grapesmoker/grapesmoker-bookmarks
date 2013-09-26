@@ -140,6 +140,7 @@
   http://aaronsw.jottit.com/rachelcarson
   http://www.straightdope.com/columns/read/2428/was-rachel-carson-a-fraud-and-is-ddt-actually-safe-for-humans
   http://www.gwpda.org/
+  http://www.scholarsstrategynetwork.org/
 
 * Bloggable:
 
@@ -333,8 +334,10 @@
    http://www2.econ.iastate.edu/tesfatsi/ace.htm
 
 ** Vision
+
    http://pascallin.ecs.soton.ac.uk/challenges/VOC/voc2012/index.html
    http://nengo.ca/
+   http://nuweb.neu.edu/ypetrov/most-important-vision-papers.html
 
 ** Robotics
 
