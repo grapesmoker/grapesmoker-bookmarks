@@ -262,6 +262,8 @@
   https://developers.google.com/closure/
 
   http://www.erlang.org/
+  
+  http://www.openworm.org/
 
 ** Lisp
    
@@ -282,6 +284,11 @@
    http://lispwebtales.ppenev.com/
    http://quickdocs.org/caveman/
    http://kuomarc.wordpress.com/2012/05/13/12-steps-to-build-and-deploy-common-lisp-in-the-cloud-and-comparing-rails/
+
+   http://www.pvk.ca/Blog/2013/04/13/starting-to-hack-on-sbcl/
+   http://letoverlambda.com/
+
+   http://psg.com/~dlamkins/sl/contents.html
 
 * Physics:
 
@@ -342,12 +349,17 @@
 ** Robotics
 
    http://cordis.europa.eu/fp7/ict/robotics/
+   http://robotics-school.org/
 
 ** Cognitive architectures
 
    http://cogarch.ict.usc.edu/sigma/
    http://compneuro.uwaterloo.ca/index.html
    http://nengo.ca/
+
+** Other
+
+   http://vserver1.cscs.lsa.umich.edu/~crshalizi/notebooks/computational-mechanics.html
 
    
 * Books:
